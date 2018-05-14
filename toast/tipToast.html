@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>toast插件应用</title>
+		<link rel="stylesheet" href="tip.css">
+		<script type="text/javascript" src="jquery-1.11.0.min.js"></script>
+		<script src="tip.js"></script>
+	</head>
+
+	<body>
+		<a onclick="aa()">获取提示语</a>
+	</body>
+	<script type="text/javascript">
+		var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己设定时间
+		toastTip._ready();
+		function aa(){
+			console.log('a');
+			toastTip._show('提示语');
+		}
+	</script>
+
+</html>

@@ -1,0 +1,21 @@
+/* tip插件 */
+.tip-toast {
+  position: fixed;
+  bottom: 20%;
+  left: 50%;
+  z-index: 3000;
+  display: none;
+  width: 375px;
+  padding: 10px 15px;
+  margin-left: -160px;
+  color: #fff;
+  text-align: center;
+  background-color: rgba(0, 0, 0, .7);
+  & .tip-close {
+    position: absolute;
+    top: 0;
+    right: 3px;
+    transform: scale(.6);
+    cursor: pointer;
+  }
+}
