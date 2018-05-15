@@ -8,7 +8,7 @@ jquery-component是自己在开发中遇到问题，总结，形成自己的开�
 
 1、在页面上引入
 ```html
-<script type="text/javascript" src="/static/commons/js/tip.js"></script>
+<script type="text/javascript" src="tip.js"></script>
 ```
 
 2、js头部引入
@@ -48,19 +48,19 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
 1、页面引入css，js，html
 
 ```css & js
-<link rel="stylesheet" type="text/css" href="/static/lib/flatpickr/flatpickr.min.css">
-<script type="text/javascript" src="/static/lib/flatpickr/flatpickr.js"></script>
+<link rel="stylesheet" type="text/css" href="flatpickr.min.css">
+<script type="text/javascript" src="flatpickr.js"></script>
 <input style="margin-left: -3px;" type="text" class="birthday dataPicker">
 ```
 
 2、在该页面需要的场景
 ```js
   $(".dataPicker").flatpickr({
-    enableTime: false,
-    dateFormat: "Y-m-d",
-    minDate: "1900-1-1",
-    maxDate: "today",
-    defaultDate: birthDay,
+    enableTime: false,      //true为带时间，false为不带时间
+    dateFormat: "Y-m-d",    //日期格式为'年-月-日'
+    minDate: "1900-1-1",    //最小的日期
+    maxDate: "today",       //最大的日期，today为今天
+    defaultDate: ["1990-1-1"],   //初始化默认的日期
     locale: {
       weekdays: {
         shorthand: ["周日", "周一", "周二", "周三", "周四", "周五", "周六"],
@@ -108,6 +108,30 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
       weekAbbreviation: "周",
       scrollTitle: "滚动切换",
       toggleTitle: "点击切换 12/24 小时时制",
-    },
+    },  //设置为中文
   });
+```
+
+
+### replaceAll自定义函数组件
+原生js中并没有replaceAll方法，只有replace，如果要将字符串替换，一般使用replace
+```js
+var str = '2016-09-19';
+var result = str.replace('-','');
+console.log(result);
+
+201609-19
+```
+
++ 调用方式
+
+1、在页面上引入
+```html
+<script type="text/javascript" src="tip.js"></script>
+```
+
+2、js头部引入
+```js
+var str = '2016-09-19';
+var result = str.replaceAll('-','.');
 ```
