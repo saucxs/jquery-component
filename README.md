@@ -40,7 +40,7 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
 ```
 
 
-### 时间日期组件
+## 时间日期组件
 使用的flatpickr的组件
 
 + 调用方式
@@ -113,7 +113,7 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
 ```
 
 
-### replaceAll自定义函数组件
+## replaceAll自定义函数组件
 原生js中并没有replaceAll方法，只有replace，如果要将字符串替换，一般使用replace
 ```js
 var str = '2016-09-19';
@@ -127,7 +127,7 @@ console.log(result);
 
 1、在页面上引入
 ```html
-<script type="text/javascript" src="tip.js"></script>
+<script type="text/javascript" src="replaceAll.js"></script>
 ```
 
 2、js头部引入
