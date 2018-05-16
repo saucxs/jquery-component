@@ -9,13 +9,12 @@
 	</head>
 
 	<body>
-		<a onclick="aa()">获取提示语</a>
+		<a onclick="toast()">获取提示语</a>
 	</body>
 	<script type="text/javascript">
 		var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己设定时间
 		toastTip._ready();
-		function aa(){
-			console.log('a');
+		function toast(){
 			toastTip._show('提示语');
 		}
 	</script>

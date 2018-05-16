@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>时间戳和时间转换</title>
+    <style>
+        a{
+            cursor: pointer;
+            color: #5579ee;
+        }
+    </style>
+    <script src="timeStamp.js"></script>
+</head>
+<body>
+<h2>时间戳->时间(13位数字)</h2>
+<input id="timeStamp" value=""><a onclick="change()">(转换)-></a><input id="time" value="">
+<br>
+<br>
+<h2>时间->时间戳(13位数字)</h2>
+<div>
+    <a onclick="getDate1()">获取当前标准时间</a><span>new Date()</span>----<span id="newDate1"></span>
+</div>
+<div>
+    <a onclick="getDate2()">获取当前时间的时间戳</a><span>（Date.parse()方法）</span>----<span id="newDate2"></span>
+</div>
+<div>
+    <a onclick="getDate3()">获取当前时间的时间戳</a><span>（.valueOf()方法）</span>----<span id="newDate3"></span>
+</div>
+<div>
+    <a onclick="getDate4()">获取当前时间的时间戳</a><span>（.getTime()方法）</span>----<span id="newDate4"></span>
+</div>
+<div>
+    <a onclick="getDate5()">获取当前时间的时间戳</a><span>（Number()方法）</span>----<span id="newDate5"></span>
+</div>
+
+
+
+</body>
+</html>

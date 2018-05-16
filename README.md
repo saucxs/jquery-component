@@ -135,3 +135,42 @@ console.log(result);
 var str = '2016-09-19';
 var result = str.replaceAll('-','.');
 ```
+
+
+## timeStamp时间戳与事件转换
+用 new Date(时间戳) 格式转化获得当前时间
+```js
+function timeFormat(item) {
+    var date = new Date(parseInt(item));
+    var Y = date.getFullYear() + '-';
+    var M = (date.getMonth()+1 < 10 ? '0'+(date.getMonth()+1) : date.getMonth()+1) + '-';
+    var D = date.getDate() + ' ';
+    var h = date.getHours() + ':';
+    var m = date.getMinutes() + ':';
+    var s = date.getSeconds();
+    return Y+M+D+h+m+s;
+}
+timeFormat(1526485239098);
+2018-5-16 23:40:39
+```
+
++ 调用方式
+
+1、在页面上引入
+```html
+<script type="text/javascript" src="timeStamp.js"></script>
+```
+
+2、自己js格式化
+```js
+timeFormat('时间戳字符')  //建议用该种方式
+或者
+translate('时间戳字符')  //因为toLocaleDateString()方法是因浏览器而异的，IE和搜过浏览器展示有差异
+```
+
+3、举例子
+```js
+timeFormat(1526485239098)  //建议用该种方式
+或者
+translate(1526485239098)  //因为toLocaleDateString()方法是因浏览器而异的，IE和搜过浏览器展示有差异
+```

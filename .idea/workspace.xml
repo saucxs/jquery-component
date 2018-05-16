@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37c972dc-1142-40fe-b152-cbb4f0e70123" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeStamp/timeStamp.js" afterPath="$PROJECT_DIR$/timeStamp/timeStamp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/toast/tipToast.html" afterPath="$PROJECT_DIR$/toast/tipToast.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,22 +15,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="368">
-                <caret line="129" column="46" lean-forward="false" selection-start-line="129" selection-start-column="46" selection-end-line="129" selection-end-column="46" />
+              <first_editor relative-caret-position="328">
+                <caret line="174" column="23" lean-forward="false" selection-start-line="174" selection-start-column="23" selection-end-line="174" selection-end-column="23" />
                 <folding>
-                  <marker date="1526401310589" expanded="true" signature="296:378" ph="{...}" />
-                  <marker date="1526401310589" expanded="true" signature="832:1924" ph="{&quot;dateFormat&quot;: &quot;Y-m-d&quot;...}" />
-                  <marker date="1526401310589" expanded="false" signature="1064:1910" ph="{&quot;rangeSeparator&quot;: &quot; 至 &quot;...}" />
-                  <marker date="1526401310589" expanded="true" signature="1082:1304" ph="{...}" />
-                  <marker date="1526401310589" expanded="true" signature="1165:1295" ph="[...]" />
-                  <marker date="1526401310589" expanded="true" signature="1320:1780" ph="{...}" />
-                  <marker date="1526401310589" expanded="true" signature="1341:1546" ph="[...]" />
-                  <marker date="1526401310589" expanded="true" signature="1566:1771" ph="[...]" />
+                  <marker date="1526486101124" expanded="true" signature="296:378" ph="{...}" />
+                  <marker date="1526486101124" expanded="true" signature="832:1924" ph="{&quot;dateFormat&quot;: &quot;Y-m-d&quot;...}" />
+                  <marker date="1526486101124" expanded="false" signature="1064:1910" ph="{&quot;rangeSeparator&quot;: &quot; 至 &quot;...}" />
+                  <marker date="1526486101124" expanded="true" signature="1082:1304" ph="{...}" />
+                  <marker date="1526486101124" expanded="true" signature="1165:1295" ph="[...]" />
+                  <marker date="1526486101124" expanded="true" signature="1320:1780" ph="{...}" />
+                  <marker date="1526486101124" expanded="true" signature="1341:1546" ph="[...]" />
+                  <marker date="1526486101124" expanded="true" signature="1566:1771" ph="[...]" />
+                  <marker date="1526486101124" expanded="true" signature="2362:2695" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -35,31 +39,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="replaceAll.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/replaceAll/replaceAll.html">
+      <file leaf-file-name="timeStamp.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/timeStamp/timeStamp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="45" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="45" />
+            <state relative-caret-position="253">
+              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="replaceAll.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/replaceAll/replaceAll.js">
+      <file leaf-file-name="timeStamp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/timeStamp/timeStamp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="276">
+              <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="57" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timePicker.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/timePicker/timePicker.html">
+      <file leaf-file-name="timeStamp.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/timeStamp/example/timeStamp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,6 +94,9 @@
       <list>
         <option value="$PROJECT_DIR$/replaceAll/replaceAll.js" />
         <option value="$PROJECT_DIR$/replaceAll/replaceAll.html" />
+        <option value="$PROJECT_DIR$/toast/tipToast.html" />
+        <option value="$PROJECT_DIR$/timeStamp/timeStamp.html" />
+        <option value="$PROJECT_DIR$/timeStamp/timeStamp.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -112,8 +121,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="width" value="913" />
-    <option name="height" value="735" />
+    <option name="width" value="995" />
+    <option name="height" value="1015" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -130,8 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,12 +146,24 @@
               <item name="jquery-component" type="b2602c69:ProjectViewProjectNode" />
               <item name="jquery-component" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jquery-component" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jquery-component" type="462c0819:PsiDirectoryNode" />
+              <item name="timePicker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jquery-component" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jquery-component" type="462c0819:PsiDirectoryNode" />
+              <item name="timeStamp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,6 +173,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\02GitHub\jquery-component\timeStamp\example" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.replaceAll.html">
+  <component name="RunManager" selected="JavaScript Debug.timeStamp.html">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -250,9 +274,15 @@
       <listeners />
     </configuration>
     <configuration name="replaceAll.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/replaceAll/replaceAll.html" />
+    <configuration name="timeStamp.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/timeStamp/timeStamp.html" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.replaceAll.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.timeStamp.html" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.replaceAll.html" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.timeStamp.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.replaceAll.html" />
       </list>
     </recent_temporary>
   </component>
@@ -266,43 +296,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526399836627</updated>
-      <workItem from="1526399842638" duration="1453000" />
+      <workItem from="1526399842638" duration="1642000" />
+      <workItem from="1526459726556" duration="12717000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1526462288100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526462288100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1453000" />
+    <option name="totallyTimeSpent" value="14359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16111952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14372164" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,15 +350,41 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/timePicker/timePicker.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1526486101124" expanded="true" signature="296:378" ph="{...}" />
+              <marker date="1526486101124" expanded="true" signature="832:1924" ph="{&quot;dateFormat&quot;: &quot;Y-m-d&quot;...}" />
+              <marker date="1526486101124" expanded="false" signature="1064:1910" ph="{&quot;rangeSeparator&quot;: &quot; 至 &quot;...}" />
+              <marker date="1526486101124" expanded="true" signature="1082:1304" ph="{...}" />
+              <marker date="1526486101124" expanded="true" signature="1165:1295" ph="[...]" />
+              <marker date="1526486101124" expanded="true" signature="1320:1780" ph="{...}" />
+              <marker date="1526486101124" expanded="true" signature="1341:1546" ph="[...]" />
+              <marker date="1526486101124" expanded="true" signature="1566:1771" ph="[...]" />
+              <marker date="1526486101124" expanded="true" signature="2362:2695" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replaceAll/replaceAll.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state relative-caret-position="184">
+          <caret line="8" column="45" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -332,10 +397,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/timePicker/timePicker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/replaceAll/replaceAll.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="45" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="45" />
+        <state relative-caret-position="322">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replaceAll/replaceAll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timePicker/timePicker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toast/tip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toast/tipToast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeStamp/example/timeStamp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeStamp/timeStamp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="57" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeStamp/timeStamp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -343,17 +474,18 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="368">
-            <caret line="129" column="46" lean-forward="false" selection-start-line="129" selection-start-column="46" selection-end-line="129" selection-end-column="46" />
+          <first_editor relative-caret-position="328">
+            <caret line="174" column="23" lean-forward="false" selection-start-line="174" selection-start-column="23" selection-end-line="174" selection-end-column="23" />
             <folding>
-              <marker date="1526401310589" expanded="true" signature="296:378" ph="{...}" />
-              <marker date="1526401310589" expanded="true" signature="832:1924" ph="{&quot;dateFormat&quot;: &quot;Y-m-d&quot;...}" />
-              <marker date="1526401310589" expanded="false" signature="1064:1910" ph="{&quot;rangeSeparator&quot;: &quot; 至 &quot;...}" />
-              <marker date="1526401310589" expanded="true" signature="1082:1304" ph="{...}" />
-              <marker date="1526401310589" expanded="true" signature="1165:1295" ph="[...]" />
-              <marker date="1526401310589" expanded="true" signature="1320:1780" ph="{...}" />
-              <marker date="1526401310589" expanded="true" signature="1341:1546" ph="[...]" />
-              <marker date="1526401310589" expanded="true" signature="1566:1771" ph="[...]" />
+              <marker date="1526486101124" expanded="true" signature="296:378" ph="{...}" />
+              <marker date="1526486101124" expanded="true" signature="832:1924" ph="{&quot;dateFormat&quot;: &quot;Y-m-d&quot;...}" />
+              <marker date="1526486101124" expanded="false" signature="1064:1910" ph="{&quot;rangeSeparator&quot;: &quot; 至 &quot;...}" />
+              <marker date="1526486101124" expanded="true" signature="1082:1304" ph="{...}" />
+              <marker date="1526486101124" expanded="true" signature="1165:1295" ph="[...]" />
+              <marker date="1526486101124" expanded="true" signature="1320:1780" ph="{...}" />
+              <marker date="1526486101124" expanded="true" signature="1341:1546" ph="[...]" />
+              <marker date="1526486101124" expanded="true" signature="1566:1771" ph="[...]" />
+              <marker date="1526486101124" expanded="true" signature="2362:2695" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

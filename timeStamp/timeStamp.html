@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>时间戳和时间转换</title>
+    <style>
+        a{
+            cursor: pointer;
+            color: #5579ee;
+        }
+    </style>
+    <script src="timeStamp.js"></script>
+    <script>
+        /*时间戳->时间*/
+        function change() {
+            var timeStamp = document.getElementById('timeStamp').value;
+            document.getElementById('time').value = timeFormat(timeStamp);
+        }
+    </script>
+</head>
+<body>
+<h2>时间戳->时间(13位数字)</h2>
+<input id="timeStamp" value=""><a onclick="change()">(转换)-></a><input id="time" value="">
+</body>
+</html>
