@@ -1,0 +1,47 @@
+.dialog .widget-container{
+    position:relative;
+    width:320px;
+    height:200px;
+    background:#fff;
+}
+.dialog .widget-head{
+    position: relative;
+    height:40px;
+    line-height:40px;
+    background:#cee1ee;
+    padding: 0px 14px;
+}
+.dialog .widget-head h3{
+    margin: 0px;
+}
+.dialog .widget-head a{
+    position:absolute;
+    top:0;
+    right:0;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    text-align:center;
+    cursor:pointer;
+}
+.dialog .widget-body{
+    height:100px;
+    padding:10px;
+    line-height:100px;
+    text-align:center;
+}
+.dialog .widget-foot{
+    height:40px;
+    padding:0 14px;
+    line-height:40px;
+    text-align:right;
+}
+.dialog .widget-foot button{
+    width:80px;
+    height:30px;
+    border:none;
+    line-height:22px;
+    background:#cee1ee;
+    outline:none;
+    cursor:pointer;
+}

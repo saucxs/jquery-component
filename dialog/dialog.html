@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>对话框-dialog</title>
+    <link rel="stylesheet" type="text/css" href="common.css">
+    <link rel="stylesheet" type="text/css" href="dialog.css">
+    <style type="text/css">
+        button{
+            font-family: "Microsoft Yahei",Arial,Helvetica;
+        }
+        .button{
+            margin-bottom:20px;
+        }
+
+    </style>
+    <script type="text/javascript" src="jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="dialog.js"></script>
+</head>
+<body>
+<div class="main">
+    <button id="btn1" class="button">打开对话框</button>
+    <div class="dialog dialog1">你确定我够帅吗？</div>
+    <script type="text/javascript">
+        $(".dialog1").dialog({
+            'title':'警告',
+            'buttons':{
+                '确定':function(api){
+                    api.close();
+                }
+            }
+        },function(api){
+            $('#btn1').click(function(){
+                api.open();
+            });
+        });
+    </script>
+</div>
+</body>
+<html>
