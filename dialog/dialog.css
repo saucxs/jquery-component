@@ -1,7 +1,7 @@
 .dialog .widget-container{
     position:relative;
     width:320px;
-    height:200px;
+    /*height:200px;*/
     background:#fff;
 }
 .dialog .widget-head{
@@ -32,7 +32,7 @@
 }
 .dialog .widget-foot{
     height:40px;
-    padding:0 14px;
+    padding:10px 14px;
     line-height:40px;
     text-align:right;
 }
@@ -41,6 +41,7 @@
     height:30px;
     border:none;
     line-height:22px;
+    margin-left: 10px;
     background:#cee1ee;
     outline:none;
     cursor:pointer;

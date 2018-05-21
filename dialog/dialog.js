@@ -2,7 +2,7 @@
  * jquery.dialog.js 1.0
  * http://jquerywidget.com
  */
-;(function (factory) {
+(function (factory) {
     if (typeof define === "function" && (define.amd || define.cmd) && !jQuery) {
         // AMD或CMD
         define([ "jquery" ],factory);
@@ -23,8 +23,10 @@
         //Browser globals
         factory(jQuery);
     }
-}(function ($) {
+}
+(function ($) {
 	$.fn.dialog = function(parameter,getApi) {
+		debugger;
 		if(typeof parameter == 'function'){ //重载
 			getApi = parameter;
 			parameter = {};
@@ -47,7 +49,8 @@
 		var options = $.extend({}, defaults, parameter);
 		var $window = $(window);
 		var $body = $("body");
-		var isIE6 = navigator.appVersion.indexOf("MSIE 6") > -1; //IE6
+		/*判断此前的浏览器是否是IE6*/
+		var isIE6 = navigator.appVersion.indexOf("MSIE 6") > -1;
 		return this.each(function() {
 			//全局变量
 			var $this = $(this);

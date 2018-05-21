@@ -3,7 +3,7 @@ jquery-component是自己在开发中遇到问题，总结，形成自己的开�
 
 
 ## toast组件
-
+展示样例：http://www.mwcxs.top/static/jquery-component/toast/tipToast.html
 + 调用方式
 
 1、在页面上引入
@@ -39,10 +39,50 @@ var toastTip = new Tip();  //使用默认时间
 var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己设定时间
 ```
 
+## dialog弹窗
+展示样例：http://www.mwcxs.top/static/jquery-component/dialog/dialog.html
++ 调用方式
+
+1、在页面上引用css和js
+
+```css & js & html
+    <link rel="stylesheet" type="text/css" href="common.css">
+    <link rel="stylesheet" type="text/css" href="dialog.css">
+    <script type="text/javascript" src="jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="dialog.js"></script>
+    
+     <button id="btn1" class="button">打开对话框</button>
+     <div class="dialog dialog1">你确认删除吗？</div>
+```
+
+2、页面相应场景引入js
+```js
+        $(".dialog1").dialog({
+            'title':'警告',
+            'buttons':{
+                '确定':function(api){
+                    api.setTitle('温馨提示');
+                    api.setContent('删除成功！');
+                    console.log('ajax请求')
+                },
+                '取消':function(api){
+                    api.close();
+                }
+            }
+        },function(api){
+            $('#btn1').click(function(){
+                api.open();
+            });
+        });
+```
+说明：
+1、弹窗的dom调用dialog(object,function);包含两个参数，一个参数是json对象--弹窗里的内容，第二参数是函数--触发弹窗的事件
+2、还在完善其他函数部分，比如调用前的方法，调用后的方法等等
+
 
 ## 时间日期组件
 使用的flatpickr的组件
-
+展示样例：http://www.mwcxs.top/static/jquery-component/timePicker/timePicker.html
 + 调用方式
 
 1、页面引入css，js，html
@@ -114,6 +154,8 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
 
 
 ## replaceAll自定义函数组件
+展示样例（查看console）：http://www.mwcxs.top/static/jquery-component/replaceAll/replaceAll.html
+
 原生js中并没有replaceAll方法，只有replace，如果要将字符串替换，一般使用replace
 ```js
 var str = '2016-09-19';
@@ -138,6 +180,7 @@ var result = str.replaceAll('-','.');
 
 
 ## timeStamp时间戳与事件转换
+展示样例（查看console）：http://www.mwcxs.top/static/jquery-component/timeStamp/timeStamp.html
 用 new Date(时间戳) 格式转化获得当前时间
 ```js
 function timeFormat(item) {
@@ -174,3 +217,5 @@ timeFormat(1526485239098)  //建议用该种方式
 或者
 translate(1526485239098)  //因为toLocaleDateString()方法是因浏览器而异的，IE和搜过浏览器展示有差异
 ```
+
+
