@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37c972dc-1142-40fe-b152-cbb4f0e70123" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dialog/dialog.css" afterPath="$PROJECT_DIR$/dialog/dialog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dialog/dialog.html" afterPath="$PROJECT_DIR$/dialog/dialog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dialog/dialog.js" afterPath="$PROJECT_DIR$/dialog/dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/toast/tipToast.html" afterPath="$PROJECT_DIR$/toast/tipToast.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,94 +14,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dialog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dialog/dialog.html">
+      <file leaf-file-name="loading.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/loading/loading.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="299">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-220">
-                <caret line="182" column="16" lean-forward="true" selection-start-line="182" selection-start-column="16" selection-end-line="182" selection-end-column="85" />
-                <folding>
-                  <marker date="1526906452277" expanded="true" signature="365:447" ph="{...}" />
-                  <marker date="1526906452277" expanded="true" signature="1121:1467" ph="{&quot;title&quot;: '警告'...}" />
-                  <marker date="1526906452277" expanded="true" signature="1171:1457" ph="{...}" />
-                  <marker date="1526906452277" expanded="true" signature="1207:1355" ph="{...}" />
-                  <marker date="1526906452277" expanded="true" signature="1391:1443" ph="{...}" />
-                  <marker date="1526906452277" expanded="true" signature="1481:1577" ph="{...}" />
-                  <marker date="1526906452277" expanded="true" signature="1522:1565" ph="{...}" />
-                  <marker date="1526906452277" expanded="true" signature="2093:3185" ph="{&quot;dateFormat&quot;: &quot;Y-m-d&quot;...}" />
-                  <marker date="1526906452277" expanded="true" signature="2325:3171" ph="{&quot;rangeSeparator&quot;: &quot; 至 &quot;...}" />
-                  <marker date="1526906452277" expanded="true" signature="2343:2565" ph="{...}" />
-                  <marker date="1526906452277" expanded="true" signature="2426:2556" ph="[...]" />
-                  <marker date="1526906452277" expanded="true" signature="2581:3041" ph="{...}" />
-                  <marker date="1526906452277" expanded="true" signature="2602:2807" ph="[...]" />
-                  <marker date="1526906452277" expanded="true" signature="2827:3032" ph="[...]" />
-                  <marker date="1526906452277" expanded="true" signature="3798:4131" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="timeStamp.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/timeStamp/timeStamp.html">
+      <file leaf-file-name="loading.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loading/loading.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="487">
+              <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="timeStamp.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/timeStamp/timeStamp.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="replaceAll.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/replaceAll/replaceAll.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dialog.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dialog/dialog.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dialog.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dialog/dialog.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="25" />
-              <folding>
-                <element signature="e#2230#2439#0" expanded="false" />
-                <element signature="e#2481#2556#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -142,7 +67,6 @@
       <list>
         <option value="$PROJECT_DIR$/replaceAll/replaceAll.js" />
         <option value="$PROJECT_DIR$/replaceAll/replaceAll.html" />
-        <option value="$PROJECT_DIR$/toast/tipToast.html" />
         <option value="$PROJECT_DIR$/timeStamp/timeStamp.html" />
         <option value="$PROJECT_DIR$/timeStamp/timeStamp.js" />
         <option value="$PROJECT_DIR$/../widget/jquery-dialog/index.html" />
@@ -150,6 +74,10 @@
         <option value="$PROJECT_DIR$/dialog/dialog.css" />
         <option value="$PROJECT_DIR$/dialog/dialog.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/timePicker/timePicker.html" />
+        <option value="$PROJECT_DIR$/loading/loading.css" />
+        <option value="$PROJECT_DIR$/toast/tipToast.html" />
+        <option value="$PROJECT_DIR$/loading/loading.html" />
       </list>
     </option>
   </component>
@@ -172,7 +100,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-6" />
     <option name="y" value="176" />
     <option name="width" value="995" />
     <option name="height" value="735" />
@@ -192,9 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -206,17 +130,7 @@
             <path>
               <item name="jquery-component" type="b2602c69:ProjectViewProjectNode" />
               <item name="jquery-component" type="462c0819:PsiDirectoryNode" />
-              <item name="replaceAll" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jquery-component" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jquery-component" type="462c0819:PsiDirectoryNode" />
-              <item name="timePicker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jquery-component" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jquery-component" type="462c0819:PsiDirectoryNode" />
-              <item name="timeStamp" type="462c0819:PsiDirectoryNode" />
+              <item name="loading" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jquery-component" type="b2602c69:ProjectViewProjectNode" />
@@ -227,6 +141,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.dialog.html">
+  <component name="RunManager" selected="JavaScript Debug.loading.html">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -343,18 +260,21 @@
       <listeners />
     </configuration>
     <configuration name="dialog.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/dialog/dialog.html" />
+    <configuration name="loading.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/loading/loading.html" />
     <configuration name="replaceAll.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/replaceAll/replaceAll.html" />
     <configuration name="timeStamp.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/timeStamp/timeStamp.html" />
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.replaceAll.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.timeStamp.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dialog.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.loading.html" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.dialog.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.timeStamp.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.replaceAll.html" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.loading.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dialog.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.timeStamp.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.replaceAll.html" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +293,8 @@
       <workItem from="1526569783161" duration="577000" />
       <workItem from="1526658228807" duration="2013000" />
       <workItem from="1526732497566" duration="1208000" />
-      <workItem from="1526893880825" duration="4847000" />
+      <workItem from="1526893880825" duration="5810000" />
+      <workItem from="1526994223696" duration="881000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1526462288100</created>
@@ -386,10 +307,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23143000" />
+    <option name="totallyTimeSpent" value="24987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -404,7 +325,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1433902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14674735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -436,6 +357,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dialog/dialog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeStamp/timeStamp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeStamp/timeStamp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replaceAll/replaceAll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialog/dialog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialog/dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="25" />
+          <folding>
+            <element signature="e#2230#2439#0" expanded="false" />
+            <element signature="e#2481#2556#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toast/tipToast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dialog/dialog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -521,13 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/timePicker/timePicker.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/toast/tip.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -539,13 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toast/tipToast.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -583,28 +551,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dialog/dialog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        <state relative-caret-position="782">
+          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dialog/dialog.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="1288">
           <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="25" />
           <folding>
             <element signature="e#2230#2439#0" expanded="false" />
             <element signature="e#2481#2556#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dialog/dialog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,7 +587,7 @@
     <entry file="file://$PROJECT_DIR$/timeStamp/timeStamp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -635,27 +595,49 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-220">
+          <first_editor relative-caret-position="263">
             <caret line="182" column="16" lean-forward="true" selection-start-line="182" selection-start-column="16" selection-end-line="182" selection-end-column="85" />
-            <folding>
-              <marker date="1526906452277" expanded="true" signature="365:447" ph="{...}" />
-              <marker date="1526906452277" expanded="true" signature="1121:1467" ph="{&quot;title&quot;: '警告'...}" />
-              <marker date="1526906452277" expanded="true" signature="1171:1457" ph="{...}" />
-              <marker date="1526906452277" expanded="true" signature="1207:1355" ph="{...}" />
-              <marker date="1526906452277" expanded="true" signature="1391:1443" ph="{...}" />
-              <marker date="1526906452277" expanded="true" signature="1481:1577" ph="{...}" />
-              <marker date="1526906452277" expanded="true" signature="1522:1565" ph="{...}" />
-              <marker date="1526906452277" expanded="true" signature="2093:3185" ph="{&quot;dateFormat&quot;: &quot;Y-m-d&quot;...}" />
-              <marker date="1526906452277" expanded="true" signature="2325:3171" ph="{&quot;rangeSeparator&quot;: &quot; 至 &quot;...}" />
-              <marker date="1526906452277" expanded="true" signature="2343:2565" ph="{...}" />
-              <marker date="1526906452277" expanded="true" signature="2426:2556" ph="[...]" />
-              <marker date="1526906452277" expanded="true" signature="2581:3041" ph="{...}" />
-              <marker date="1526906452277" expanded="true" signature="2602:2807" ph="[...]" />
-              <marker date="1526906452277" expanded="true" signature="2827:3032" ph="[...]" />
-              <marker date="1526906452277" expanded="true" signature="3798:4131" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialog/dialog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timePicker/timePicker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loading/loading.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toast/tipToast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loading/loading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>

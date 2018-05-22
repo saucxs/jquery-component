@@ -1,0 +1,64 @@
+.scale-ball {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    margin-top: 200px
+}
+
+.scale-ball>.scale-ball-a,
+.scale-ball>.scale-ball-b,
+.scale-ball>.scale-ball-c {
+    position: absolute;
+    background: #369;
+    margin: 0;
+    opacity: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation: springhack 1s 0s linear infinite;
+    animation: springhack 1s 0s linear infinite
+}
+
+.scale-ball>.scale-ball-b {
+    -webkit-animation-delay: .2s;
+    animation-delay: .2s
+}
+
+.scale-ball>.scale-ball-c {
+    -webkit-animation-delay: .4s;
+    animation-delay: .4s
+}
+
+@-webkit-keyframes springhack {
+    0% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+        opacity: 0
+    }
+    5% {
+        opacity: 1
+    }
+    to {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        opacity: 0
+    }
+}
+
+@keyframes springhack {
+    0% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+        opacity: 0
+    }
+    5% {
+        opacity: 1
+    }
+    to {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        opacity: 0
+    }
+}
