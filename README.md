@@ -1,5 +1,6 @@
 # jquery-component
-jquery-component是自己在开发中遇到问题，总结，形成自己的开发组件
+jquery-component是自己在开发中遇到问题，总结，形成自己的开发组件，有待继续完善
+浏览器支持：开发主流浏览器
 
 
 ## toast组件
@@ -40,7 +41,9 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
 ```
 
 ## dialog弹窗
+
 展示样例：http://www.mwcxs.top/static/jquery-component/dialog/dialog.html
+
 + 调用方式
 
 1、在页面上引用css和js
@@ -80,9 +83,31 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
 2、还在完善其他函数部分，比如调用前的方法，调用后的方法等等
 
 
+## loading
+加载动画
+展示样例：http://www.mwcxs.top/static/jquery-component/loading/loading.html
+
++ 调用方式
+
+1、页面引入css
+
+```css
+<link rel="stylesheet" href="loading.css">
+```
+2、该页面需要的场景
+```dom
+ <div class="scale-ball">
+        <div class="scale-ball-a"></div>
+        <div class="scale-ball-b"></div>
+        <div class="scale-ball-c"></div>
+ </div>
+```
+
+
 ## 时间日期组件
 使用的flatpickr的组件
 展示样例：http://www.mwcxs.top/static/jquery-component/timePicker/timePicker.html
+
 + 调用方式
 
 1、页面引入css，js，html
@@ -150,6 +175,31 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
       toggleTitle: "点击切换 12/24 小时时制",
     },  //设置为中文
   });
+```
+
+
+## colorPicker组件
+主要是模仿的是webkit内核的颜色选择器
+展示样例：http://www.mwcxs.top/static/jquery-component/colorPicker/colorPicker.html
+
++ 调用方式
+
+1、页面引用
+
+```js
+<script src="colorPicker.js"></script>
+```
+
+2、需要的场景
+```js
+ Colorpicker.create({
+        bindClass:'inputPicker',
+        change: function(elem,hex){
+            elem.value = hex;
+            document.getElementById('inputPicker').value = hex;
+            document.getElementById('pickerShow').style.backgroundColor = hex;
+        }
+    })
 ```
 
 
