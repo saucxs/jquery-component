@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="37c972dc-1142-40fe-b152-cbb4f0e70123" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +13,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="185" column="0" lean-forward="true" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+              <first_editor relative-caret-position="3013">
+                <caret line="185" column="0" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
                 <folding>
                   <marker date="1527160857332" expanded="true" signature="386:468" ph="{...}" />
                   <marker date="1527160857332" expanded="true" signature="1144:1490" ph="{&quot;title&quot;: '警告'...}" />
@@ -48,8 +47,28 @@
       <file leaf-file-name="colorPicker.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/colorPicker/colorPicker.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="44" column="6" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="44" selection-end-column="6" />
+            <state relative-caret-position="620">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/drag/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="47" column="113" lean-forward="false" selection-start-line="47" selection-start-column="113" selection-end-line="47" selection-end-column="113" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drag.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drag/drag.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1506">
+              <caret line="73" column="33" lean-forward="true" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -98,8 +117,10 @@
         <option value="$PROJECT_DIR$/loading/loading.css" />
         <option value="$PROJECT_DIR$/toast/tipToast.html" />
         <option value="$PROJECT_DIR$/loading/loading.html" />
-        <option value="$PROJECT_DIR$/colorPicker/colorPicker.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/colorPicker/colorPicker.html" />
+        <option value="$PROJECT_DIR$/drag/drag.js" />
+        <option value="$PROJECT_DIR$/drag/index.html" />
       </list>
     </option>
   </component>
@@ -121,11 +142,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="876" />
-    <option name="y" value="59" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
     <option name="width" value="1062" />
-    <option name="height" value="969" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -142,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -153,15 +174,14 @@
             <path>
               <item name="jquery-component" type="b2602c69:ProjectViewProjectNode" />
               <item name="jquery-component" type="462c0819:PsiDirectoryNode" />
-              <item name="colorPicker" type="462c0819:PsiDirectoryNode" />
+              <item name="drag" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +189,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../alxw_judge_system_v1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
@@ -195,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.colorPicker.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -279,23 +299,23 @@
     </configuration>
     <configuration name="colorPicker.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/colorPicker/colorPicker.html" />
     <configuration name="dialog.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/dialog/dialog.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/drag/index.html" />
     <configuration name="loading.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/loading/loading.html" />
-    <configuration name="replaceAll.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/replaceAll/replaceAll.html" />
     <configuration name="timeStamp.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jquery-component/timeStamp/timeStamp.html" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.replaceAll.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.timeStamp.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dialog.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.loading.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.colorPicker.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.timeStamp.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dialog.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.loading.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.colorPicker.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.colorPicker.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.loading.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dialog.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.timeStamp.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.replaceAll.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.colorPicker.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.loading.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.dialog.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.timeStamp.html" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +336,8 @@
       <workItem from="1526732497566" duration="1208000" />
       <workItem from="1526893880825" duration="5810000" />
       <workItem from="1526994223696" duration="2866000" />
-      <workItem from="1527160313144" duration="518000" />
+      <workItem from="1527160313144" duration="4974000" />
+      <workItem from="1527520075169" duration="253000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1526462288100</created>
@@ -329,10 +350,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27490000" />
+    <option name="totallyTimeSpent" value="32199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="10" y="0" width="1062" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -342,19 +363,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.104477614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1996008" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -379,6 +400,43 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3013">
+            <caret line="185" column="0" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+            <folding>
+              <marker date="1527160857332" expanded="true" signature="386:468" ph="{...}" />
+              <marker date="1527160857332" expanded="true" signature="1144:1490" ph="{&quot;title&quot;: '警告'...}" />
+              <marker date="1527160857332" expanded="true" signature="1194:1480" ph="{...}" />
+              <marker date="1527160857332" expanded="true" signature="1230:1378" ph="{...}" />
+              <marker date="1527160857332" expanded="true" signature="1414:1466" ph="{...}" />
+              <marker date="1527160857332" expanded="true" signature="1504:1600" ph="{...}" />
+              <marker date="1527160857332" expanded="true" signature="1545:1588" ph="{...}" />
+              <marker date="1527160857332" expanded="false" signature="2459:3551" ph="{&quot;dateFormat&quot;: &quot;Y-m-d&quot;...}" />
+              <marker date="1527160857332" expanded="true" signature="2691:3537" ph="{&quot;rangeSeparator&quot;: &quot; 至 &quot;...}" />
+              <marker date="1527160857332" expanded="true" signature="2709:2931" ph="{...}" />
+              <marker date="1527160857332" expanded="true" signature="2792:2922" ph="[...]" />
+              <marker date="1527160857332" expanded="true" signature="2947:3407" ph="{...}" />
+              <marker date="1527160857332" expanded="true" signature="2968:3173" ph="[...]" />
+              <marker date="1527160857332" expanded="true" signature="3193:3398" ph="[...]" />
+              <marker date="1527160857332" expanded="true" signature="3779:4038" ph="{&quot;bindClass&quot;: 'inputPicker'...}" />
+              <marker date="1527160857332" expanded="true" signature="3848:4032" ph="{...}" />
+              <marker date="1527160857332" expanded="true" signature="4650:4983" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/colorPicker/colorPicker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -419,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -427,7 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -435,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -457,7 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="11" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="8" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,19 +706,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/colorPicker/colorPicker.html">
+    <entry file="file://$PROJECT_DIR$/../jQuery-ColorPicker/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="460">
+            <caret line="110" column="8" lean-forward="false" selection-start-line="110" selection-start-column="8" selection-end-line="110" selection-end-column="54" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jQuery-ColorPicker/colorpicker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="44" column="6" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="44" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="441" column="27" lean-forward="false" selection-start-line="441" selection-start-column="27" selection-end-line="441" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="185" column="0" lean-forward="true" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+          <first_editor relative-caret-position="3013">
+            <caret line="185" column="0" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
             <folding>
               <marker date="1527160857332" expanded="true" signature="386:468" ph="{...}" />
               <marker date="1527160857332" expanded="true" signature="1144:1490" ph="{&quot;title&quot;: '警告'...}" />
@@ -690,6 +749,30 @@
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/colorPicker/colorPicker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drag/drag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1506">
+          <caret line="73" column="33" lean-forward="true" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drag/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="47" column="113" lean-forward="false" selection-start-line="47" selection-start-column="113" selection-end-line="47" selection-end-column="113" />
+          <folding />
         </state>
       </provider>
     </entry>
