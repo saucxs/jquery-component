@@ -179,6 +179,7 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
 
 ## drag组件
 基于jquery
+展示样例：http://www.mwcxs.top/static/jquery-component/drag/drag.html
 + 调用方式
 1、页面引用
 ```js
