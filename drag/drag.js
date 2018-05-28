@@ -1,4 +1,3 @@
-// 拖拽
 /*
 * 说明：本插件基于jquery
 * 1.传参
@@ -46,6 +45,7 @@ jQuery.extend({
                         $(document).off(".move");
                     });
                     var _this = $("#drag-plugin-move-div");
+                    /*计算移动的举例*/
                     function calcLong(onOff, e) {
                         $body.find(cElem).not(".move-template").each(function (index, elem) {
                             if (!onOff) { // 鼠标拖动

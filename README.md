@@ -177,6 +177,28 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
   });
 ```
 
+## drag组件
+基于jquery
++ 调用方式
+1、页面引用
+```js
+<script src="drag.js"></script>
+```
+2、场景应用
+```js
+$.init("父元素","被拖动的元素","被拖动的样式","被替换元素的样式")
+```
+说明
+* pElem 父元素的className 如 ".option"
+* cElem 子元素(要拖拽的元素)的className 如 ".option-list"
+* style1:被拖动的样式
+* style2:被替换的样式
+
+3、举例
+```js
+ $.init(".options",".option-list",{'border-color':'#1F8CEB','background':'green'},{'border-color':'#5579ee','background':'red'});
+```
+
 
 ## colorPicker组件
 主要是模仿的是webkit内核的颜色选择器
@@ -201,7 +223,6 @@ var toastTip = new Tip({showTime:100,delay:3000,hideTime:500});  //使用自己�
         }
     })
 ```
-
 
 ## replaceAll自定义函数组件
 展示样例（查看console）：http://www.mwcxs.top/static/jquery-component/replaceAll/replaceAll.html
